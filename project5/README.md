@@ -41,17 +41,6 @@ Saving successful migration to network...
   ... 0x84940f35e026fb2ac24a4e35a2f5b490c216ee1ba5f09a1100f7d2bacc5b864a
 Saving artifacts...
 
-## contract address
-0xc6df2f74bec1e32811f0c268f0814ddd2efb7630
-https://rinkeby.etherscan.io/address/0xc6df2f74bec1e32811f0c268f0814ddd2efb7630
-
-## contract hash
-0x15a1a5a851e06d7308025c871b4ec32fc0521822c2243772a1a17e52bfbd687f
-https://rinkeby.etherscan.io/tx/0x15a1a5a851e06d7308025c871b4ec32fc0521822c2243772a1a17e52bfbd687f
-
-## transaction hash
-0xce11aabe8ed3ec1a1b45f6e080a6be3ed721e1fca53ee76464af5c8d2c2a5606
-https://rinkeby.etherscan.io/tx/0xce11aabe8ed3ec1a1b45f6e080a6be3ed721e1fca53ee76464af5c8d2c2a5606
 
 ## star tokenId
 1
